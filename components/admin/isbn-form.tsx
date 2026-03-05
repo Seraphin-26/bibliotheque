@@ -72,7 +72,6 @@ export function ISBNForm() {
             style={{
               padding: "8px 18px",
               borderRadius: "8px",
-              border: "none",
               cursor: "pointer",
               fontSize: "13px",
               fontFamily: "inherit",
