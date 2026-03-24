@@ -2,9 +2,11 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://bibliotheque-flax.vercel.app/)
 
 
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3-38B2AC)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-0A6CFF?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?style=for-the-badge&logo=postgresql)
+![Auth.js](https://img.shields.io/badge/Auth.js-Authentication-purple?style=for-the-badge)
+![Resend](https://img.shields.io/badge/Resend-Email-orange?style=for-the-badge)
 
 Application fullstack construite avec **Next.js 15 (App Router)**, **Prisma**, **SQLite**, **Auth.js** et **Tailwind CSS**.
 
