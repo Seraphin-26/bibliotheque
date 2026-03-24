@@ -1,4 +1,9 @@
 # 📚 Bibliotheca — Application de Gestion de Bibliothèque
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://bibliotheque-flax.vercel.app/)
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3-38B2AC)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 Application fullstack construite avec **Next.js 15 (App Router)**, **Prisma**, **SQLite**, **Auth.js** et **Tailwind CSS**.
 
