@@ -1,12 +1,27 @@
 # 📚 Bibliotheca — Application de Gestion de Bibliothèque
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://bibliotheque-flax.vercel.app/)
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3-38B2AC)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-
 Application fullstack construite avec **Next.js 15 (App Router)**, **Prisma**, **SQLite**, **Auth.js** et **Tailwind CSS**.
 
+## Screenshots
+
+### Desktop View
+<img src="screenshots/desktop.png" width="500px" alt="Desktop view" />
+<img src="screenshots/desktop_1.png" width="500px" alt="Desktop view" />
+<img src="screenshots/desktop_2.png" width="500px" alt="Desktop view" />
+<img src="screenshots/desktop_3.png" width="500px" alt="Desktop view" />
+<img src="screenshots/desktop_4.png" width="500px" alt="Desktop view" />
+<img src="screenshots/desktop_5.png" width="500px" alt="Desktop view" />
+<img src="screenshots/desktop_6.png" width="500px" alt="Desktop view" />
+### Mobile View
+<img src="screenshots/mobile.png" width="250px" alt="Mobile view" />
+<img src="screenshots/mobile_1.png" width="250px" alt="Mobile view" />
+<img src="screenshots/mobile_2.png" width="250px" alt="Mobile view" />
 ---
 
 ## 🚀 Installation & Démarrage
