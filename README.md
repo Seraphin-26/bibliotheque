@@ -1,4 +1,8 @@
 # 📚 Bibliotheca — Application de Gestion de Bibliothèque
+
+Une application full‑stack pour gérer les livres, les emprunts et les utilisateurs (avec rôles). 
+Fonctionnalités principales : Auth, Catalogue, Ajout de livres via API, Emprunt & Retour, Dashboard Admin.
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://bibliotheque-flax.vercel.app/)
 
 
